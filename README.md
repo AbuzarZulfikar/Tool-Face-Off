@@ -6,7 +6,7 @@
 
 drsunny.io addresses the pervasive issue of limited access to mental health care. Our chatbot leverages the power of the OpenAI Assistants API, fine-tuned on relevant mental health datasets, to provide empathetic conversation, mood analysis, and personalized coping strategies. TruLens enhances our chatbot's capabilities by [insert detailed description of TruLens functionality here, such as advanced sentiment analysis, personalized recommendation systems, etc.]. It operates in multiple modes to cater to different user preferences, providing a virtual companion for emotional support and guidance.
 
-**Technology Tags:** OpenAI, Natural Language Processing, Mental Health, AI for Social Good, Python, Streamlit
+**Technology Tags:**  OpenAI Assistants API, TruLens, OpenAI API, LLamaIndex, MongoDB, Python 
 
 **Category Tags:** Healthcare, Wellbeing, Accessibility, Innovation
 
