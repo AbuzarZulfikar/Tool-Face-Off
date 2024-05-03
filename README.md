@@ -1,10 +1,10 @@
-# ![drsunny.io](drsunny.io) - Your AI Mental Health Companion
+# drsunny.io - Your AI Mental Health Companion
 
 **Short Description:** AI-powered chatbot offering accessible mental health support and guidance using the OpenAI Assistants API, TruLens, Python, and Streamlit.
 
 **Long Description:** 
 
-![drsunny.io](drsunny.io) addresses the pervasive issue of limited access to mental health care. Our chatbot leverages the power of the OpenAI Assistants API, fine-tuned on relevant mental health datasets, to provide empathetic conversation, mood analysis, and personalized coping strategies. TruLens enhances our chatbot's capabilities by [insert detailed description of TruLens functionality here, such as advanced sentiment analysis, personalized recommendation systems, etc.]. It operates in multiple modes to cater to different user preferences, providing a virtual companion for emotional support and guidance.
+drsunny.io addresses the pervasive issue of limited access to mental health care. Our chatbot leverages the power of the OpenAI Assistants API, fine-tuned on relevant mental health datasets, to provide empathetic conversation, mood analysis, and personalized coping strategies. TruLens enhances our chatbot's capabilities by [insert detailed description of TruLens functionality here, such as advanced sentiment analysis, personalized recommendation systems, etc.]. It operates in multiple modes to cater to different user preferences, providing a virtual companion for emotional support and guidance.
 
 **Technology Tags:** OpenAI, Natural Language Processing, Mental Health, AI for Social Good, Python, Streamlit
 
@@ -17,7 +17,7 @@
 
 **Video Presentation:**  
 - Opening: Addressing rising mental health concerns and barriers to traditional therapy.
-- Introduce ![drsunny.io](drsunny.io): As a solution for accessible, compassionate support.
+- Introduce drsunny.io: As a solution for accessible, compassionate support.
 - Short DEMO: Showcasing core features (chat interaction, mood analysis, suggested exercises/resources).
 - Emphasize: Ease of use and potential impact.
 - Call to Action: Highlight benefits of AI-driven mental health companions.
@@ -26,13 +26,13 @@
 
 ### 2. Business Value
 
-- **Reduction of Suicide Rates:** According to [source], the suicide rate in [country] is [statistics]. ![drsunny.io](drsunny.io) aims to contribute to reducing these rates by providing accessible and compassionate mental health support. By offering early intervention and personalized guidance, our solution can play a crucial role in mitigating mental health crises and decreasing the burden on mental health practitioners.
+- **Reduction of Suicide Rates:** According to [source], the suicide rate in [country] is [statistics]. drsunny.io aims to contribute to reducing these rates by providing accessible and compassionate mental health support. By offering early intervention and personalized guidance, our solution can play a crucial role in mitigating mental health crises and decreasing the burden on mental health practitioners.
 
 ---
 
 ### 3. Application of Technology
 
-- **OpenAI Assistants API:** The OpenAI Assistants API serves as the core conversational AI, leveraging advanced natural language processing techniques. Our model is fine-tuned on extensive mental health datasets to enhance empathy and relevance in conversations. This allows ![drsunny.io](drsunny.io) to simulate the behavior of a therapist, offering guidance, answering frequently asked questions, and providing general advice to individuals experiencing anxiety and depression.
+- **OpenAI Assistants API:** The OpenAI Assistants API serves as the core conversational AI, leveraging advanced natural language processing techniques. Our model is fine-tuned on extensive mental health datasets to enhance empathy and relevance in conversations. This allows drsunny.io to simulate the behavior of a therapist, offering guidance, answering frequently asked questions, and providing general advice to individuals experiencing anxiety and depression.
 
 - **TruLens:** TruLens is a proprietary tool developed by our team. It enhances the capabilities of our chatbot by:
   TruLens is an advanced AI-driven platform that leverages cutting-edge technology to provide a range of powerful functionalities, including:
@@ -62,7 +62,7 @@
 
 ### Ethical Considerations
 
-- Transparency: Users informed that ![drsunny.io](drsunny.io) is AI, not a therapist replacement.
+- Transparency: Users informed that drsunny.io is AI, not a therapist replacement.
 - Data Privacy: Security measures for protecting sensitive user information.
 - Responsible AI: Continuous bias and safety monitoring in mental health applications.
 
