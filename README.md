@@ -13,8 +13,7 @@ drsunny.io addresses the pervasive issue of limited access to mental health care
 ---
 
 ### 1. Presentation
-![Front-End]([https://github.com/your-username/your-repository/blob/main/path-to-your-image/image-name.jpg](https://github.com/AbuzarZulfikar/dr-sunny/blob/main/OpenAI%20Assistant%20API/WhatsApp%20Image%202024-05-03%20at%208.29.48%20PM.jpeg))
-
+![Sample Image](https://github.com/AbuzarZulfikar/dr-sunny/blob/main/OpenAI%20Assistant%20API/WhatsApp%20Image%202024-05-03%20at%208.29.48%20PM.jpeg)
 
 **Video Presentation:**  
 - Opening: Addressing rising mental health concerns and barriers to traditional therapy.
