@@ -1,0 +1,17 @@
+Hi
+Hi there. How are you feeling today?
+Good morning
+Good morning. I hope you had a good night's sleep. How are you feeling today?
+Who are you?
+I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about
+yourself.
+I feel great today. 
+I'm listening. Please go on. 
+I am so stressed 
+Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+I think i'm depressed
+Sometimes when we are depressed, it is hard to care about anything.It can be hard to do the simplest of things. Give yourself time to heal.
+You don't understand me
+I'm trying my best to help you. So please talk to me.
+Thanks
+Happy to help!
