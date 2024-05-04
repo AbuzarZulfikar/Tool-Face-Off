@@ -19,7 +19,7 @@ from openai import OpenAI
 # openai_apikey = "sk-proj-WLI8hLo4RSkmgPNvfEVAT3BlbkFJxwUY3cV2iMNF4OhxrCXe"
 
 
-openai_apikey = "sk-proj-3ViR5ld74PUm7rFgqqPlT3BlbkFJiYtY2ysxbqHMS1GSJHrU"
+openai_apikey = "Replace with your API"
 #client = OpenAI(api_key=openai_apikey, default_headers={"OpenAI-Beta": "assistants=v1"})
 
 provider = fOpenAI(api_key=openai_apikey)
