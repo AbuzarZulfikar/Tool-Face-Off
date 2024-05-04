@@ -3,7 +3,7 @@ import streamlit as st
 import time
 from openai import OpenAI
 
-openai_apikey = "sk-proj-3ViR5ld74PUm7rFgqqPlT3BlbkFJiYtY2ysxbqHMS1GSJHrU"
+openai_apikey = "Replace with your API"
 
 class RAG_with_OpenAI_Assistant:
     def __init__(self):
