@@ -35,7 +35,7 @@ class MultiApp:
         with st.sidebar:    
             app = option_menu(
                 menu_title='OFIN',
-                options=['Home','Account','Analysis','History','about'],
+                options=['Home','Account','Chat','History','about'],
                 icons=['house-fill','person-circle','trophy-fill','chat-fill','info-circle-fill'],
                 menu_icon='chat-text-fill',
                 default_index=1,
@@ -52,7 +52,7 @@ class MultiApp:
             home.app()
         if app == "Account":
             account.app()    
-        if app == "Analysis":
+        if app == "Chat":
             analysis.app()        
         if app == 'History':
             history.app()
